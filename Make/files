@@ -1,0 +1,8 @@
+kLeeLowReWallFunction/kLeeLowReWallFunctionFvPatchScalarField.C
+omegaLeeWallFunction/omegaLeeWallFunctionFvPatchScalarField.C
+omegaKnoppWallFunction/omegaKnoppWallFunctionFvPatchScalarField.C
+
+kAupoixLowReWallFunction/kAupoixLowReWallFunctionFvPatchScalarField.C
+omegaAupoixWallFunction/omegaAupoixWallFunctionFvPatchScalarField.C
+
+LIB = $(FOAM_USER_LIBBIN)/liblowReRoughWallBCs
